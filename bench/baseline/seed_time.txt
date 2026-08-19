@@ -1,0 +1,4 @@
+seed inicial: 26m15s (1525.86s user, 9.68s system, 97% cpu)
+comando: uv run python manage.py seed
+fecha: Wed Aug 19 16:33:50 -04 2026
+maquina: MacBook Air M1, Postgres 16 en Docker
